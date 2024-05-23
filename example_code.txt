@@ -1,0 +1,8 @@
+# This is a sample Python code
+2x = = = = = 10
+y = 2a0
+
+if x > y:
+    print("x is greater than y")
+else:
+    print("y is greater than x")
